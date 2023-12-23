@@ -1,0 +1,13 @@
+# Name: Reddit
+# Author: Hawaiine
+# UPDATED: 2023/12/24 00:57
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 5
+# USER-AGENT: 0
+DOMAIN-KEYWORD,reddit
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,redditmail.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redd.it
