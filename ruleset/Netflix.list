@@ -1,11 +1,13 @@
 # Name: Netflix
 # Author: Hawaiine
-# UPDATED: 2023/12/20 2:00
+# UPDATED: 2024/01/31 13:48
 # DOMAIN: 1
-# DOMAIN-KEYWORD: 4
+# DOMAIN-KEYWORD: 6
 # DOMAIN-SUFFIX: 22
 # USER-AGENT: 1
 USER-AGENT,Argo*
+DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
+DOMAIN-KEYWORD,apiproxy-website-nlb-prod-
 DOMAIN-KEYWORD,dualstack.apiproxy-
 DOMAIN-KEYWORD,dualstack.ichnaea-web-
 DOMAIN-KEYWORD,netflixdnstest
